@@ -2,7 +2,7 @@ module.exports = {
 	title: "Make Soup, Not War",
 	url: "https://soupnotwar.com",
 	language: "en",
-	description: "Soup-Heads Anonymous",
+	description: "Soup-Heads Unite!",
 	author: {
 		name: "Michael E. Nelson",
 		email: "michaelnet@michaelnet.biz",
