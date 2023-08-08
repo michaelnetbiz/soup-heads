@@ -7,7 +7,7 @@ eleventyNavigation:
 
 # Privacy Policy
 
-## PART I: Michaelnet Primary Subscription Agreement (PSA) fka Michaelnet Subscription Agreement (MSA)
+## PART I: MSNW Subscription Agreement (MSA) f/k/a Michaelnet Primary Subscription Agreement (PSA) a/k/a Michaelnet Subscription Agreement (MSA)
 
 PLEASE READ THIS SUBSCRIPTION AGREEMENT (“SUBSCRIBER AGREEMENT”, “AGREEMENT”, OR “TERMS OF USE”) CAREFULLY BEFORE PURCHASING ANY SERVICES OR MEDIA PACKAGES FROM MICHAELNET. THIS AGREEMENT WILL GOVERN YOUR USE OF MICHAELNET'S SERVICES AND MEDIA PACKAGES.
 
@@ -78,7 +78,7 @@ Michaelnet recognizes the importance of protecting your Personally Identifiable 
 
 Accordingly, this Privacy Policy sets forth Michaelnet’s policies regarding the collection, use and disclosure of your PII both through our online and offline operations. Moreover, this Privacy Policy explains how you can correct or change the PII we retain about you and/or opt out of receiving certain marketing materials. In closing, please read this Privacy Policy carefully as it explains how Michaelnet may use and disclose such PII as well as your ability to control certain uses of it.
 
-The Privacy Policy set forth herein applies to Michaelnet Corporate Holdins' and all of it's wonderful children companies. 
+The Privacy Policy set forth herein applies to Michaelnet Corporate Holdins' and all of it's wonderful children companies.
 
 ### 1. Purpose and Scope:
 

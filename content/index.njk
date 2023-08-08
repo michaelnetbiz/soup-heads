@@ -3,19 +3,19 @@ layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
-numberOfLatestPostsToShow: 3
+numberOfLatestReviewsToShow: 5
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+{% set reviewsCount = collections.reviews | length %}
+{% set latestReviewsCount = reviewsCount | min(numberOfLatestReviewsToShow) %}
+<h1>Latest {{ latestReviewsCount }} Review{% if latestReviewsCount != 1 %}s{% endif %}</h1>
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
+{% set reviewslist = collections.reviews | head(-1 * numberOfLatestReviewsToShow) %}
+{% set reviewslistCounter = reviewsCount %}
+{% include "reviewslist.njk" %}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-    <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
+{% set moreReviews = reviewsCount - numberOfLatestReviewsToShow %}
+{% if moreReviews > 0 %}
+    <p>{{ moreReviews }} more review{% if moreReviews != 1 %}s{% endif %} can be found in <a href="/blog/">the review</a>.</p>
 {% endif %}
 
 {# List every content page in the project #}

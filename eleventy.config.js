@@ -1,7 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
 
-const pluginAmp = require('@ampproject/eleventy-plugin-amp');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
@@ -38,9 +37,6 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
     eleventyConfig.addPlugin(pluginBundle);
 
-    // Enable AMP-11ty plugin
-    eleventyConfig.addPlugin(pluginAmp);
-
     // Filters
     eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
         // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
@@ -75,6 +71,7 @@ module.exports = function (eleventyConfig) {
         for (let item of collection) {
             (item.data.tags || []).forEach(tag => tagSet.add(tag));
         }
+        console.log(collection)
         return Array.from(tagSet);
     });
 

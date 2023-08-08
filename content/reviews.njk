@@ -1,0 +1,10 @@
+---
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Reviews
+  order: 2
+---
+<h1>Reviews</h1>
+
+{% set reviewlist = collections.reviews %}
+{% include "reviewslist.njk" %}
