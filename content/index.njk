@@ -9,7 +9,7 @@ numberOfLatestReviewsToShow: 5
 {% set latestReviewsCount = reviewsCount | min(numberOfLatestReviewsToShow) %}
 <h1>Latest {{ latestReviewsCount }} Review{% if latestReviewsCount != 1 %}s{% endif %}</h1>
 
-{% set reviewslist = collections.reviews | head(-1 * numberOfLatestReviewsToShow) %}
+{% set reviewlist = collections.reviews | head(-1 * numberOfLatestReviewsToShow) %}
 {% set reviewslistCounter = reviewsCount %}
 {% include "reviewslist.njk" %}
 
@@ -17,15 +17,3 @@ numberOfLatestReviewsToShow: 5
 {% if moreReviews > 0 %}
     <p>{{ moreReviews }} more review{% if moreReviews != 1 %}s{% endif %} can be found in <a href="/blog/">the review</a>.</p>
 {% endif %}
-
-{# List every content page in the project #}
-
-<ul>
-    {%- for entry in collections.all %}
-        <li>
-            <a href="{{ entry.url }}">
-                <code>{{ entry.url }}</code>
-            </a>
-        </li>
-    {%- endfor %}
-</ul>
