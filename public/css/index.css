@@ -230,7 +230,10 @@ header {
 }
 
 .reviewlist-promo {
+    max-height: 2rem;
     max-width: 2rem;
+    padding-left: .25em;
+    padding-right: .5em;
 }
 
 .reviewlist-link {
@@ -250,7 +253,7 @@ header {
 }
 
 /* Tags */
-.post-tag {
+.review-tag {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -258,12 +261,12 @@ header {
     font-style: italic;
 }
 
-.reviewlist-item>.post-tag {
+.reviewlist-item>.review-tag {
     align-self: center;
 }
 
 /* Tags list */
-.post-metadata {
+.review-metadata {
     display: inline-flex;
     flex-wrap: wrap;
     gap: .5em;
@@ -272,7 +275,7 @@ header {
     margin: 0;
 }
 
-.post-metadata time {
+.review-metadata time {
     margin-right: 1em;
 }
 
