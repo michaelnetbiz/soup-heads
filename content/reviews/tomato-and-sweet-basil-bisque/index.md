@@ -4,6 +4,10 @@ description: Conducted at my apartment on October 18, 2015
 date: 2015-10-18
 tags:
     - canned
+    - bisque
+    - Oxford English Dictionary
+    - basil
+    - Campbell's
 ---
 
 ## The Rating
