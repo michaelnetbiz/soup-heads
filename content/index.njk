@@ -10,8 +10,8 @@ numberOfLatestReviewsToShow: 5
 <h1>Latest {{ latestReviewsCount }} Review{% if latestReviewsCount != 1 %}s{% endif %}</h1>
 
 {% set reviewlist = collections.reviews | head(-1 * numberOfLatestReviewsToShow) %}
-{% set reviewslistCounter = reviewsCount %}
-{% include "reviewslist.njk" %}
+{% set reviewlistCounter = reviewsCount %}
+{% include "reviewlist.njk" %}
 
 {% set moreReviews = reviewsCount - numberOfLatestReviewsToShow %}
 {% if moreReviews > 0 %}

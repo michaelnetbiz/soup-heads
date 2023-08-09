@@ -15,6 +15,6 @@ permalink: /tags/{{ tag | slugify }}/
 <h1>Tagged “{{ tag }}”</h1>
 
 {% set reviewlist = collections[tag] %}
-{% include "reviewslist.njk" %}
+{% include "reviewlist.njk" %}
 
 <p>See <a href="/tags/">all tags</a>.</p>
