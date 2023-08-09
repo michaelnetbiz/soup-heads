@@ -1,5 +1,5 @@
 module.exports = {
-    title: "Soup Not War",
+    title: "Soup not war",
     url: "https://soupnotwar.com",
     language: "en",
     description: "Appetitive solutions to non-appetitive problems",
