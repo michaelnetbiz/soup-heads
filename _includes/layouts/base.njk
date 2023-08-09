@@ -53,9 +53,11 @@
                 <h2 class="visually-hidden">Top level navigation menu</h2>
                 <ul class="nav">
                     {%- for entry in collections.all | eleventyNavigation %}
-                        <li class="nav-item">
-                            <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
-                        </li>
+                        {% if "Home" in entry.title or "Reviews" in entry.title %}
+                            <li class="nav-item">
+                                <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+                            </li>
+                        {% endif %}
                     {%- endfor %}
                 </ul>
             </nav>
@@ -65,12 +67,22 @@
             {{ content | safe }}
         </main>
 
-        <footer style="text-align:center">
+        <footer style="text-align: center">
             <p>{{ metadata.slogan }}</p>
+            <nav>
+                <h2 class="visually-hidden">Top level navigation menu</h2>
+                <div class="nav">
+                    {%- for entry in collections.all | eleventyNavigation %}
+                        {% if "About" in entry.title or "Privacy" in entry.title %}
+                            <span class="nav-item">
+                                <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+                            </span>
+                        {% endif %}
+                    {%- endfor %}
+                </div>
+            </nav>
             <p>Copyright © Michaelnet 2023</p>
         </footer>
-
-        {# Current page: {{ page.url | htmlBaseUrl }} #}
 
     </body>
 
