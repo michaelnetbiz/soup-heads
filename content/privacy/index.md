@@ -11,7 +11,7 @@ eleventyNavigation:
 
 PLEASE READ THIS SUBSCRIPTION AGREEMENT (“SUBSCRIBER AGREEMENT”, “AGREEMENT”, OR “TERMS OF USE”) CAREFULLY BEFORE PURCHASING ANY SERVICES OR MEDIA PACKAGES FROM MICHAELNET. THIS AGREEMENT WILL GOVERN YOUR USE OF MICHAELNET'S SERVICES AND MEDIA PACKAGES.
 
-You hereby acknowledge that you agree to this Subscriber Agreement by clicking “I Agree & I also Continue” (or any other industry standard mechanisms during the registration process) and thus ratify your agreement when you purchase any aspect of Michaelnet’s services. If you do not agree to this Subscriber Agreement, you should not purchase any of Michaelnet’s services or media packages.
+You hereby acknowledge that you agree to this Subscriber Agreement by clicking “I Agree & I also Continue” (or any other industry standard mechanisms during the registration process) and thus ratify your agreement when you purchase any aspect of Michaelnet's services. If you do not agree to this Subscriber Agreement, you should not purchase any of Michaelnet's services or media packages.
 
 Michaelnet may change the Terms and Conditions of this Subscriber Agreement at any time, with or without prior written notice. However, the latest version of our Subscriber Agreement will be posted on our Site at all times; to this end, we strongly advise you to frequently review our Subscription Agreement, especially prior to purchasing any product or services available through our Site.
 
@@ -21,7 +21,7 @@ Michaelnet may change the Terms and Conditions of this Subscriber Agreement at a
 
 #### 1.2.: You must cancel your membership before it renews in order to avoid billing of the membership fees for the next billing cycle. (see below for more details.)
 
-#### 1.3: Some content will only be available to users for a fixed amount time regardless of whichever subscription plan you have purchased; subject to change by Michaelnet’s sole discretion.
+#### 1.3: Some content will only be available to users for a fixed amount time regardless of whichever subscription plan you have purchased; subject to change by Michaelnet's sole discretion.
 
 #### 1.4: “Subscription & Merch Bundles” may have different initial and re-billing costs.
 
@@ -43,7 +43,7 @@ Michaelnet may change the Terms and Conditions of this Subscriber Agreement at a
 
 ### 3. AGE LIMITATIONS
 
-#### 3.1: Michaelnet’s services and media packages are not intended to be used by children without involvement and approval of a parent or legal guardian. If you are under the age of 18 you are not permitted to register with Michaelnet, purchase any subscriptions, or provide your personal identifiable information (“PII”) unless you have the consent of your parent or legal guardian.
+#### 3.1: Michaelnet's services and media packages are not intended to be used by children without involvement and approval of a parent or legal guardian. If you are under the age of 18 you are not permitted to register with Michaelnet, purchase any subscriptions, or provide your personal identifiable information (“PII”) unless you have the consent of your parent or legal guardian.
 
 ### 4. DEVICE COMPATIBILITY
 
@@ -59,15 +59,15 @@ Michaelnet may change the Terms and Conditions of this Subscriber Agreement at a
     uses technology or other means to access, index, frame or link to the Services (including the Content) that is not authorized by Michaelnet (including by removing, disabling, bypassing, or circumventing any content protection or access control mechanisms intended to prevent the unauthorized download, stream capture, linking, framing, reproduction, access to, or distribution of the Services);
     involves accessing the Services (including the Content) through any automated means, including “robots,” “spiders,” or “offline readers” (other than by individually performed searches on publicly accessible search engines for the sole purpose of, and solely to the extent necessary for, creating publicly available search indices – but not caches or archives – of the Services and excluding those search engines or indices that host, promote, or link primarily to infringing or unauthorized content);
     introduces viruses or any other computer code, files, or programs that interrupt, destroy, or limit the functionality of any computer software or hardware or telecommunications equipment;
-    damages, disables, overburdens, impairs, or gains unauthorized access to the Services, including Michaelnet’s servers, computer network, or user accounts;
+    damages, disables, overburdens, impairs, or gains unauthorized access to the Services, including Michaelnet's servers, computer network, or user accounts;
     removes, modifies, disables, blocks, obscures or otherwise impairs any advertising in connection with the Services (including the Content);
     uses the Services to advertise or promote services that are not expressly approved in advance in writing by Michaelnet;
-    collects information in violation of Michaelnet’s Privacy Policy;
+    collects information in violation of Michaelnet's Privacy Policy;
     collects information about users for the purpose of sending, facilitating, or encouraging unsolicited bulk or other communications;
     furthers any means of fraudulent activity, including identity theft;
     encourages conduct that would constitute a criminal offense or give rise to civil liability;
     violates these Terms or any guidelines or policies posted by Michaelnet;
-    interferes with any other party’s use and enjoyment of the Services; or
+    interferes with any other party's use and enjoyment of the Services; or
     attempts to do any of the foregoing.
 
 #### 5.2: Use of our Site is a privilege, not a right!:Michaelnet reserves the right to immediately terminate or restrict your account or your use of the Services at any time, without notice or liability, if Michaelnet determines or reasonably believes in its sole discretion that you have breached these Terms, violated any law, rule, or regulation, engaged in other inappropriate conduct, or for any other business reason. We prefer to avoid such termination; we may use technical measures to block or restrict your prohibited access to our site and you agree not to circumvent, avoid, or bypass such restrictions. We also reserve the right to take appropriate legal action against you.
@@ -76,7 +76,7 @@ Michaelnet may change the Terms and Conditions of this Subscriber Agreement at a
 
 Michaelnet recognizes the importance of protecting your Personally Identifiable Information (“PII”), such as your name, telephone number, e-mail address, mailing address, credit/debit card number, IP address, unique online identifiers, aliases and any other personal contact information that you may provide to Michaelnet. We collect PEE/PII in order to establish your account, to handle billing, and to understand your specific needs in order to serve you better.
 
-Accordingly, this Privacy Policy sets forth Michaelnet’s policies regarding the collection, use and disclosure of your PII both through our online and offline operations. Moreover, this Privacy Policy explains how you can correct or change the PII we retain about you and/or opt out of receiving certain marketing materials. In closing, please read this Privacy Policy carefully as it explains how Michaelnet may use and disclose such PII as well as your ability to control certain uses of it.
+Accordingly, this Privacy Policy sets forth Michaelnet's policies regarding the collection, use and disclosure of your PII both through our online and offline operations. Moreover, this Privacy Policy explains how you can correct or change the PII we retain about you and/or opt out of receiving certain marketing materials. In closing, please read this Privacy Policy carefully as it explains how Michaelnet may use and disclose such PII as well as your ability to control certain uses of it.
 
 The Privacy Policy set forth herein applies to Michaelnet Corporate Holdins' and all of it's wonderful children companies.
 
@@ -94,7 +94,7 @@ Finally, this Privacy Policy only applies to our Site and services and applicati
 
 ### 2. How Personally Identifiable Information (“PII”) is Used by Michaelnet:
 
-The information we collect is used to comprehensively understand your needs and interests, and permits us to deliver a more consistent and personalized experience. Your information may also be aggregated with other user’s information on a purely non-identifiable basis to understand how our products are used to help make them better. For example, we may use your information to:
+The information we collect is used to comprehensively understand your needs and interests, and permits us to deliver a more consistent and personalized experience. Your information may also be aggregated with other user's information on a purely non-identifiable basis to understand how our products are used to help make them better. For example, we may use your information to:
 
     assist you in completing a transaction or order;
     communicate with you about products and services;
@@ -106,15 +106,15 @@ The information we collect is used to comprehensively understand your needs and 
 
 By using the Site, you agree to the collection, use, and disclosure of your PII as described in this Privacy Policy, and you agree to our Terms of Use which are incorporated by reference. If you do not agree, stop accessing or using our Site.
 
-Michaelnet strives to ensure that we give you a stress-free experience. To this end, we are dedicated to building a rewarding and lasting relationship with every customer. To accomplish this goal, we may use your PII for various purposes. For clarity’s sake, each category of “Datum Use” is summarized below:
+Michaelnet strives to ensure that we give you a stress-free experience. To this end, we are dedicated to building a rewarding and lasting relationship with every customer. To accomplish this goal, we may use your PII for various purposes. For clarity's sake, each category of “Datum Use” is summarized below:
 
 1. USER DATA
 
-    This is the personal data provided by you, or collected by us, to enable you to sign up for and use the Michaelnet. Depending on the type of Subscription Plan you sign up for, this may include your account’s username, email address, phone number, birth date, street address, state/territory, and country.
+    This is the personal data provided by you, or collected by us, to enable you to sign up for and use the Michaelnet. Depending on the type of Subscription Plan you sign up for, this may include your account's username, email address, phone number, birth date, street address, state/territory, and country.
 
 2. USAGE DATA
 
-    This is the personal date that is collected about you when you’re accessing and/or using our Site. This may include:
+    This is the personal date that is collected about you when you're accessing and/or using our Site. This may include:
 
     Information about the type of Michaelnet Subscription Agreement you purchased.
     Information about your interactions with our Site, such as your search inquiries, streaming history, your media library, your browsing history, and your interactions with our Team and/or other users.
@@ -140,7 +140,7 @@ Michaelnet strives to ensure that we give you a stress-free experience. To this 
 
 5. “COOKIES”
 
-Cookies are small data files that are placed on users’ devices to monitor how users interact with websites and other online services. Pixel tags, also called web beacons or single-pixel gifs, tag a graphic on a web page or in an email message that tracks pages viewed or email messages opened. Logs are continuous digital records of events and interactions that occur on a website. Cookies, pixel tags, and/or logs can be used to identify your IP address, browser type, domain name, and specific web pages through which you click and/or email messages you open.
+Cookies are small data files that are placed on users' devices to monitor how users interact with websites and other online services. Pixel tags, also called web beacons or single-pixel gifs, tag a graphic on a web page or in an email message that tracks pages viewed or email messages opened. Logs are continuous digital records of events and interactions that occur on a website. Cookies, pixel tags, and/or logs can be used to identify your IP address, browser type, domain name, and specific web pages through which you click and/or email messages you open.
 
 There are different types of cookies, and they can be distinguished on the basis of their origin, function, and lifespan. Important characteristics of cookies include the following:
 
@@ -203,7 +203,7 @@ Upon your express request, we will immediately delete your personal data such as
 
     Michaelnet has instituted security measures on this Site to protect the loss, misuse and alteration of your PII and other information that is under our control. To the best extent possible, specifically, (i) our network and database are highly secure; (ii) only authorized employees have access to contact data; (iii) all employees are educated on our privacy policies; (iv) all employees agree to adhere to our privacy policies as a condition of employment; (v) our network and database are password protected and are behind both a firewall and proxy server to ensure security; (vi) our web security is under on-going scrutiny and review to ensure that it meets the highest standards; and (vii) collected information is never shared with non-interested third parties.
 
-    When using chat rooms and discussion forums on our Site (if they become/are available), we strongly advise you to remember that your communications with other users in ‘public’ chat rooms and forums are not private. To this end, you should not divulge your PII to anyone (especially credit card, personal home address, phone number, etc.) in a chat room or forum. If you choose to share such information, you do so at your own peril.
+    When using chat rooms and discussion forums on our Site (if they become/are available), we strongly advise you to remember that your communications with other users in 'public' chat rooms and forums are not private. To this end, you should not divulge your PII to anyone (especially credit card, personal home address, phone number, etc.) in a chat room or forum. If you choose to share such information, you do so at your own peril.
 
     When using chat rooms and discussion forums on our Site (if they become/are available), we strongly advise you to immediately flag or report any and all abusive behavior or language by other users. Michaelnet has a zero tolerance policy for abusive or otherwise threatening language. Moreover, please report or flag anyone who asks you or continues to ask you for your PII because it could be a scam or someone who wishes to cause harm. We take such reports very seriously and will investigate your concerns to the best of our ability in a reasonably timely manner.
 

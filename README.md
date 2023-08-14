@@ -21,7 +21,7 @@ cd my-blog-name
 git clone https://github.com/11ty/eleventy-base-blog.git .
 ```
 
-_Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the site’s options and data.
+_Optional:_ Review `eleventy.config.js` and `_data/metadata.js` to configure the site's options and data.
 
 3. Install dependencies
 
@@ -50,7 +50,7 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 - Using [Eleventy v2.0](https://www.11ty.dev/blog/eleventy-v2/) with zero-JavaScript output.
     - Content is exclusively pre-rendered (this is a static site).
     - Can easily [deploy to a subfolder without changing any content](https://www.11ty.dev/docs/plugins/html-base/)
-    - All URLs are decoupled from the content’s location on the file system.
+    - All URLs are decoupled from the content's location on the file system.
     - Configure templates via the [Eleventy Data Cascade](https://www.11ty.dev/docs/data-cascade/)
 - **Performance focused**: four-hundos Lighthouse score out of the box!
     - [View the Lighthouse report for the latest build](https://eleventy-base-blog.netlify.app/reports/lighthouse/) courtesy of the [Netlify Lighthouse plugin](https://github.com/netlify/netlify-plugin-lighthouse).
@@ -101,7 +101,7 @@ Deploy this Eleventy site in just a few clicks on these services:
 - `content/about/index.md` is an example of a content page.
 - `content/blog/` has the blog posts but really they can live in any directory. They need only the `posts` tag to be included in the blog posts [collection](https://www.11ty.dev/docs/collections/).
 - Use the `eleventyNavigation` key (via the [Eleventy Navigation plugin](https://www.11ty.dev/docs/plugins/navigation/)) in your front matter to add a template to the top level site navigation. This is in use on `content/index.njk` and `content/about/index.md`.
-- Content can be in _any template format_ (blog posts needn’t exclusively be markdown, for example). Configure your project’s supported templates in `eleventy.config.js` -> `templateFormats`.
+- Content can be in _any template format_ (blog posts needn't exclusively be markdown, for example). Configure your project's supported templates in `eleventy.config.js` -> `templateFormats`.
 - The `public` folder in your input directory will be copied to the output folder (via `addPassthroughCopy` in the `eleventy.config.js` file). This means `./public/css/*` will live at `./_site/css/*` after your build completes.
 - Provides two content feeds:
     - `content/feed/feed.njk`

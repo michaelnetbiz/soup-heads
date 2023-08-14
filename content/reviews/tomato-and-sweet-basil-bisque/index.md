@@ -29,7 +29,7 @@ Didn't come in a can but it tasted like it did! Three stars out of five.
 
 According to the Oxford English Dictionary [zotpressInText item="{V3U4C5WZ}"], <em>bisque</em> is:
 
-<blockquote>A term for the odds which one [tennis] player gives the other in allowing him to score one point once during the ‘set’ at any time he may elect. Also in Croquet: An extra turn allowed to a weaker player.</blockquote>
+<blockquote>A term for the odds which one [tennis] player gives the other in allowing him to score one point once during the 'set' at any time he may elect. Also in Croquet: An extra turn allowed to a weaker player.</blockquote>
 
 There is not a single element of this definition that rings true with my experience of the <em>bisque</em> currently under review. But as an empiricist I will not let this odd definition phase me.
 
