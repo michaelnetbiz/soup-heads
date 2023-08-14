@@ -6,13 +6,14 @@ tags:
     - canned
     - bisque
     - Oxford English Dictionary
+    - OED
     - basil
     - Campbell's
 ---
 
 ## The Rating
 
-Didn't come in a can but it tasted like it did. Three stars out of five.
+Didn't come in a can but it tasted like it did! Three stars out of five.
 
 ## Vendor
 
@@ -56,7 +57,7 @@ This soup made sure it was remembered for at least a two or three hours after co
 
 ### Mode of Consumption
 
-Shout out to my former colleagues at Adam Mickiewicz University in Poznań, Poland. This cup doesn't hold much, which ensures slow consumption due to my reluctance to get up for a refill. I drank from the cup, used a spoon, and also used my toast to consume the bisque.
+Shout out to my pals from Adam Mickiewicz University in Poznań, Poland. This cup doesn't hold much, which ensures slow consumption due to my reluctance to get up for a refill. I drank from the cup, used a spoon, and also used my toast to consume the bisque.
 
 <img class="size-medium wp-image-245 aligncenter" src="http://soupnotwar.com/wp-content/uploads/2015/10/IMG_20151018_124207292-300x225.jpg" alt="IMG_20151018_124207292" width="300" height="225" /></a>
 
