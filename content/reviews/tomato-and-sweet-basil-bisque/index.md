@@ -5,6 +5,9 @@ date: 2015-10-18
 tags:
     - canned
     - bisque
+    - tennis
+    - saucy
+    - croquet
     - Oxford English Dictionary
     - OED
     - basil
