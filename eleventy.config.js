@@ -1,11 +1,11 @@
-const { DateTime } = require("luxon");
+const {DateTime} = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
+const {EleventyHtmlBasePlugin} = require("@11ty/eleventy");
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
@@ -31,7 +31,7 @@ module.exports = function (eleventyConfig) {
     // Official plugins
     eleventyConfig.addPlugin(pluginRss);
     eleventyConfig.addPlugin(pluginSyntaxHighlight, {
-        preAttributes: { tabindex: 0 }
+        preAttributes: {tabindex: 0}
     });
     eleventyConfig.addPlugin(pluginNavigation);
     eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
@@ -40,12 +40,12 @@ module.exports = function (eleventyConfig) {
     // Filters
     eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
         // Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
-        return DateTime.fromJSDate(dateObj, { zone: zone || "utc" }).toFormat(format || "dd LLLL yyyy");
+        return DateTime.fromJSDate(dateObj, {zone: zone || "utc"}).toFormat(format || "dd LLLL yyyy");
     });
 
     eleventyConfig.addFilter('htmlDateString', (dateObj) => {
         // dateObj input: https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-        return DateTime.fromJSDate(dateObj, { zone: 'utc' }).toFormat('yyyy-LL-dd');
+        return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
     });
 
     // Get the first `n` elements of a collection.
