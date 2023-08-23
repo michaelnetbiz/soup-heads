@@ -4,6 +4,7 @@ eleventyNavigation:
   key: Home
   order: 1
 numberOfLatestReviewsToShow: 5
+numberOfQuotesToShow: 1
 ---
 {% set reviewsCount = collections.reviews | length %}
 {% set latestReviewsCount = reviewsCount | min(numberOfLatestReviewsToShow) %}

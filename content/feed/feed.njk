@@ -24,4 +24,15 @@ permalink: /feed/feed.xml
             <content type="html">{{ review.templateContent | transformWithHtmlBase(absoluteReviewUrl, review.url) }}</content>
         </entry>
     {%- endfor %}
+
+   {%- for quote in collections.quotes | reverse %}
+        {% set absoluteQuoteUrl %}{{ quote.url | htmlBaseUrl(metadata.url) }}{% endset %}
+        <entry>
+            <title>{{ quote.data.title }}</title>
+            <link href="{{ absoluteQuoteUrl }}"/>
+            <updated>{{ quote.date | dateToRfc3339 }}</updated>
+            <id>{{ absoluteQuoteUrl }}</id>
+            <content type="html">{{ quote.templateContent | transformWithHtmlBase(absoluteQuoteUrl, quote.url) }}</content>
+        </entry>
+    {%- endfor %}
 </feed>

@@ -1,5 +1,5 @@
 {%- css %}.reviewlist { counter-reset: start-from {{ (reviewsCounter or reviews.length) + 1 }} }{% endcss %}
-<ol reversed class="reviewlist">
+<ul reversed class="reviewlist">
     {% for review in reviewlist | reverse %}
         <li class="reviewlist-item{% if review.url == url %} reviewlist-item-active{% endif %}">
             <img class="reviewlist-promo" src="/img/promo/{{ review.data.title | slugify }}.jpg" alt="{{ review.data.title }}"/>
@@ -12,4 +12,4 @@
             <time class="reviewlist-date" datetime="{{ review.date | htmlDateString }}">{{ review.date | readableDate("LLLL yyyy") }}</time>
         </li>
     {% endfor %}
-</ol>
+</ul>

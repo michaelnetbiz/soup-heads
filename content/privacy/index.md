@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 eleventyNavigation:
     key: Privacy
-    order: 3
+    order: 4
 ---
 
 # Privacy Policy

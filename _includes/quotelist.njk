@@ -1,0 +1,14 @@
+{%- css %}.quotelist { counter-reset: start-from {{ (quotesCounter or quotes.length) + 1 }} }{% endcss %}
+<ul reversed class="quotelist">
+    {% for quote in quotelist | reverse %}
+        <li class="quotelist-item{% if quote.url == url %} quotelist-item-active{% endif %}">
+            <a href="{{ quote.url }}" class="quotelist-link">
+                {% if quote.data.title %}{{ quote.data.title }}
+                {% else %}
+                    <code>{{ quote.url }}</code>
+                {% endif %}
+            </a>
+            <time class="quotelist-date" datetime="{{ quote.date | htmlDateString }}">{{ quote.date | readableDate("yyyy") }}</time>
+        </li>
+    {% endfor %}
+</ul>
