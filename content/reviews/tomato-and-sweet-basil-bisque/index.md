@@ -16,7 +16,7 @@ tags:
 
 ## The Rating
 
-Didn't come in a can but it tasted like it did! Three stars out of five.
+Didn't come in a can but it tasted like it did, which isn't necessarily a bad thing in my book! Five stars.
 
 ## Vendor
 

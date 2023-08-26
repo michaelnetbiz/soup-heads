@@ -14,7 +14,7 @@ tags:
 
 ## The Rating
 
-A challenging, insufficiently rewarding soup experience. Two stars out of five.
+A challenging, insufficiently rewarding experience of soup in itself, but the healthy portions and the good-will generating from soup certainly gives cause for pause! Five stars.
 
 ## Vendor
 
