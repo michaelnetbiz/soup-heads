@@ -201,6 +201,15 @@ header .nav a[href][aria-current="page"] {
     text-decoration: underline;
 }
 
+header .nav-children {
+    list-style: square;
+    padding: 0 0.25rem;
+}
+
+header .nav-children .nav-item {
+    font-size: 0.75rem;
+}
+
 /* Nav */
 footer .nav {
     list-style: none;

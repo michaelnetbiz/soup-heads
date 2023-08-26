@@ -51,14 +51,21 @@
             {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
             <nav>
                 <h2 class="visually-hidden">Top level navigation menu</h2>
+                {% set navPages = collections.all | eleventyNavigation %}
+                {% macro renderNavListItem(entry) -%}
+                    {% if "About" not in entry.title and "Privacy" not in entry.title %}
+                        <li{% if entry.url == page.url %} class="my-active-class nav-item"{% endif %} class="nav-item">
+                            <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+                            {%- if entry.children.length -%}
+                                <ul class="nav-children">
+                                    {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+                                </ul>
+                            {%- endif -%}
+                        </li>
+                    {% endif %}
+                {%- endmacro %}
                 <ul class="nav">
-                    {%- for entry in collections.all | eleventyNavigation %}
-                        {% if "About" not in entry.title and "Privacy" not in entry.title %}
-                            <li class="nav-item">
-                                <a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
-                            </li>
-                        {% endif %}
-                    {%- endfor %}
+                    {%- for entry in navPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
                 </ul>
             </nav>
         </header>
