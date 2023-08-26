@@ -1,11 +1,12 @@
 const {DateTime} = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
 
+const {EleventyHtmlBasePlugin} = require("@11ty/eleventy");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginBundle = require("@11ty/eleventy-plugin-bundle");
 const pluginNavigation = require("@11ty/eleventy-navigation");
-const {EleventyHtmlBasePlugin} = require("@11ty/eleventy");
+const pluginLinkTo = require('eleventy-plugin-link_to');
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
@@ -27,6 +28,7 @@ module.exports = function (eleventyConfig) {
     // App plugins
     eleventyConfig.addPlugin(pluginDrafts);
     eleventyConfig.addPlugin(pluginImages);
+    eleventyConfig.addPlugin(pluginLinkTo);
 
     // Official plugins
     eleventyConfig.addPlugin(pluginRss);
