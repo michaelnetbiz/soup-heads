@@ -77,6 +77,12 @@ p {
     line-height: 1.5;
 }
 
+.slogan {
+    font-size: 0.75rem;
+    font-style: italic;
+    margin-right: 2em;
+}
+
 li {
     line-height: 1.5;
 }
