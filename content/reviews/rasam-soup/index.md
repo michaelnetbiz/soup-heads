@@ -87,7 +87,7 @@ I had no prior experience with this particular soup. The sourness called to mind
 
 Samosa Chaat before, and Pistachio Kulfi afterwards. The ice cream was packed with pistachios and soothed my semi-offended taste buds. But this is a review of the soup, not the ice cream.
 
-![dessert](../../../img/rasam-soup/image-6.jpg "dessert")
+![dessert](../../../img/rasam-soup/image-7.jpg "dessert")
 
 ### Frame
 
