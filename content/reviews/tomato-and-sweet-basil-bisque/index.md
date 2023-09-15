@@ -30,7 +30,7 @@ Didn't come in a can but it tasted like it did, which isn't necessarily a bad th
 
 ### Bisque
 
-According to the Oxford English Dictionary [zotpressInText item="{V3U4C5WZ}"], <em>bisque</em> is:
+According to the Oxford English Dictionary, [bisque](https://www.oed.com/dictionary/bisque_n2) is:
 
 <blockquote>A term for the odds which one [tennis] player gives the other in allowing him to score one point once during the 'set' at any time he may elect. Also in Croquet: An extra turn allowed to a weaker player.</blockquote>
 

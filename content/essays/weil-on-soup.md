@@ -10,4 +10,4 @@ tags:
 
 duh
 
-[zotpressInText item="{53FBNU4E}"]
+The Iliad, or the poem of force
